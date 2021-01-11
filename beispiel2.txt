@@ -1,2 +1,1 @@
-Hallo
-Weitere Veränderung.
+beispiel2.txt: Textdatei mit beliebigem Inhalt.
