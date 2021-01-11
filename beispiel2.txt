@@ -1,1 +1,2 @@
 beispiel2.txt: Textdatei mit beliebigem Inhalt.
+Änderung an beispiel2.txt
