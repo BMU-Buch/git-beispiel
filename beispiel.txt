@@ -1,6 +1,0 @@
-Hallo
-Dies ist eine Beispiel-Datei für die Arbeit mit Git.
-Weitere Veränderung.
-Noch ein Zusatz.
-Noch eine Veränderung.
-Änderung an beispiel.txt
