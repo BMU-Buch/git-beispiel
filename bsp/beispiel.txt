@@ -1,0 +1,3 @@
+beispiel.txt: Textdatei mit beliebigem Inhalt.
+Änderung an beispiel.txt
+Änderung 2
