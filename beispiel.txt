@@ -4,3 +4,4 @@ beispiel.txt: Textdatei mit beliebigem Inhalt.
 Änderung 2
 Änderung 3
 Änderung im neuen Zweig
+Weitere Änderung im neuen Zweig
