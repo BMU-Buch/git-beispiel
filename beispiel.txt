@@ -6,3 +6,4 @@ beispiel.txt: Textdatei mit beliebigem Inhalt.
 Änderung im neuen Zweig
 Änderung im Hauptzweig2
 Weitere Änderung im Hauptzweig
+Weitere Änderung im neuen Zweig
