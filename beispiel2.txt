@@ -6,3 +6,4 @@ beispiel2.txt: Textdatei mit beliebigem Inhalt.
 Änderung für rebase-Beispiel 1
 Änderung für rebase-Beispiel 2
 Änderung für rebase-Beispiel 3
+Änderung für rebase-Beispiel 4
