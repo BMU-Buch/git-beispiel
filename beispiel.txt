@@ -12,3 +12,4 @@ Eintrag zweig1
 Eintrag zweig2
 Änderung für rebase-Beispiel
 Änderung für rebase-Beispiel 2 (master)
+Änderung für rebase-Beispiel 3
