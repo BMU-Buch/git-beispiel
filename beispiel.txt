@@ -19,3 +19,4 @@ Eintrag zweig2
 Änderung für merge-Beispiel 2
 xxx
 yyy
+zzz
