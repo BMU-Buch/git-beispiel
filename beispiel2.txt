@@ -3,3 +3,4 @@ beispiel2.txt: Textdatei mit beliebigem Inhalt.
 Änderung 2
 Änderung 3
 Änderung 4
+Änderung für rebase-Beispiel 1
