@@ -7,3 +7,4 @@ beispiel.txt: Textdatei mit beliebigem Inhalt.
 Änderung im Hauptzweig2
 Weitere Änderung im Hauptzweig
 Weitere Änderung im neuen Zweig
+Eintrag zweig1
