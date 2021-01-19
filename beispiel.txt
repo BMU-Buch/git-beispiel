@@ -9,3 +9,4 @@ Weitere Änderung im Hauptzweig
 Weitere Änderung im neuen Zweig
 Eintrag zweig1
 Eintrag zweig2
+Änderung für rebase-Beispiel
