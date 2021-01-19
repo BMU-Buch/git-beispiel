@@ -17,3 +17,4 @@ Eintrag zweig2
 Änderung für rebase-Beispiel 4
 Änderung für rebase-Beispiel 5
 Änderung für merge-Beispiel 2
+xxx
