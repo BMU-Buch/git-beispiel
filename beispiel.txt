@@ -1,3 +1,4 @@
+Änderung für rebase-Beispiel 2 (zweig1)
 Änderung im neuen Zweig2
 beispiel.txt: Textdatei mit beliebigem Inhalt.
 Änderung an beispiel.txt
